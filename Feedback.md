@@ -1,13 +1,13 @@
 # QAP 3 – Feedback
 
-## 1. Time Spent
+## 1. Completion Time
 
-Estimated total time: approximately 6 hours.
+Total completion time: approximately 5 hours and 30 minutes.
 
-- **Question 1**: Estimated time to complete – around 1 hour and 30 minutes.
-- **Question 2**: This question is expected to take the longest, around 2 hours.
-- **Question 3**: Estimated time to complete – around 1 hour and 45 minutes.
-- **Question 4**: Estimated time to complete – around 45 minutes.
+- **Question 1**: Around 1 hour and 45 minutes.
+- **Question 2**: Around 1 hour.
+- **Question 3**: Around 2 hours.
+- **Question 4**: Around 45 minutes.
 
 ## 2. Online Resources Used
 
