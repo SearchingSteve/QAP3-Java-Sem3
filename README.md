@@ -1,6 +1,24 @@
 # QAP - Java Semester 3
 
+# Table of Contents
+
+1. [Introduction](#introduction)
+2. [Project Structure](#project-structure)
+3. [Problems Overview](#problems-overview)
+   - [Problem 1: Inheritance with Person, Student, Teacher, and CollegeStudent Classes](#problem-1-inheritance-with-person-student-teacher-and-collegestudent-classes)
+   - [Problem 2: Inheritance with Point and MovablePoint Classes](#problem-2-inheritance-with-point-and-movablepoint-classes)
+   - [Problem 3: Abstract Shapes - Shape, Ellipse, Circle, Triangle, and EquilateralTriangle](#problem-3-abstract-shapes---shape-ellipse-circle-triangle-and-equilateraltriangle)
+   - [Problem 4: Scalable Interface with Shapes](#problem-4-scalable-interface-with-shapes)
+4. [How to Run the Code](#how-to-run-the-code)
+5. [License](#license)
+6. [Author](#author)
+
+
+## Introduction 
+
 This project includes solutions to four object-oriented programming problems as part of the **QAP assignment** for **Semester 3 - Java**. Each problem focuses on class design, inheritance, abstract classes, interfaces, and object composition using Java. The project also includes test drivers, documentation, and proof of output for each problem.
+
+
 
 ## Project Structure
 
@@ -116,3 +134,11 @@ This problem introduces an interface `Scalable` that adds scaling functionality 
 
 Each test driver will output the expected results for the problem it is testing.
 """
+
+## License
+
+This project and all associated files are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License. - see the LICENSE file for details.
+
+## Author
+
+Stephen Crocker
