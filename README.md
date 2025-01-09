@@ -1,4 +1,4 @@
-# QAP - Java Semester 3
+# Sem3-QAP3-Java
 
 # Table of Contents
 
